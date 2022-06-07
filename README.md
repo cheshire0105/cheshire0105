@@ -12,4 +12,4 @@
 
 # 3
 
-> (http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/bw0105/)
+> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bw0105)](https://solved.ac/bw0105/)
