@@ -7,4 +7,9 @@
 > Cheshire cat, Alice In Wonderland 
 
 # 2 
-> 
+
+> <img src="https://img.shields.io/badge/Switf-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+
+# 3
+
+> (http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/bw0105/)
