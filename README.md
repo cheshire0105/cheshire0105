@@ -5,11 +5,3 @@
 > "*Every adventure requires a first step.*"  
 > 모든 모험은 첫 발을 내딛는 것이 꼭 필요합니다.  
 > Cheshire cat, Alice In Wonderland 
-
-# 2 
-
-> <img src="https://img.shields.io/badge/Switf-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-
-# 3
-
-> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bw0105)](https://solved.ac/bw0105/)
