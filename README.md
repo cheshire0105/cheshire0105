@@ -36,7 +36,7 @@
 <tr>
 <td width="50%" valign="top">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=27&height=195)
+![Cheshire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=27&height=195)
 
 </td>
 <td width="50%" valign="top">
