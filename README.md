@@ -34,9 +34,9 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="10%" valign="top">
 
-![Cheshire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=27&height=100)
+![Cheshire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=27&height=195)
 
 </td>
 <td width="50%" valign="top">
