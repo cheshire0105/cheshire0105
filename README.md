@@ -28,13 +28,21 @@
 
 > "‘아무리 난리 쳐봐라. 나는 피어나고 말지.’"
 
---- 
+---
+
+### 📊 GitHub 통계 
+
+<table>
+<tr>
+<td>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical)
 
+</td>
+<td>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire0105&layout=compact)](https://github.com/cheshire0105/github-readme-stats)
 
-
-
-
-
+</td>
+</tr>
+</table>
