@@ -27,7 +27,9 @@
 이름의 의미를 알고 나니 능소화를 사랑하지 않을 수 없었다.
 
 > "‘아무리 난리 쳐봐라. 나는 피어나고 말지.’"
->
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cheshire0105=delay-100&show_icons=true&theme=radical)
+
+--- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical)
 
 
