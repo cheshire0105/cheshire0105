@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=5958dd&height=300&section=header&text=🐈‍⬛%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=5958dd&height=150&section=header&text=🐈‍⬛%20&fontSize=90)
 
 # 🌿 모든 시작은 첫걸음에서 🌿
 
