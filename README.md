@@ -26,7 +26,7 @@
 
 이름의 의미를 알고 나니 능소화를 사랑하지 않을 수 없었다.
 
-> "‘아무리 난리 쳐봐라. 나는 피어나고 말지.’"
+> "‘아무리 난리 쳐봐라. 나는 피어나고 말지.’”
 
 ---
 
@@ -34,14 +34,14 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=40)
 
 </td>
-<td>
+<td width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire0105&layout=compact)](https://github.com/cheshire0105/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire0105&layout=compact&langs_count=10&card_width=300)](https://github.com/cheshire0105/github-readme-stats)
 
 </td>
 </tr>
