@@ -34,14 +34,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=40)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheshire0105&show_icons=true&theme=radical&line_height=27&height=195)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire0105&layout=compact&langs_count=10&card_width=300)](https://github.com/cheshire0105/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire0105&layout=compact&langs_count=10&card_width=445&height=195)](https://github.com/cheshire0105/github-readme-stats)
 
 </td>
 </tr>
