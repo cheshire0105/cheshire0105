@@ -1,6 +1,6 @@
 <div align="center">
   <h2>gyesung jo</h2>
-  <p>Dev · Design · Coffee</p>
+  <p>Dev · Design · Coffee · Swim</p>
 </div>
 
 <div align="center">
